@@ -22,7 +22,6 @@ notify = "5.0.0"
 normpath = "0.3"
 
 [dependencies.rocket]
-version = "0.5.0-rc.2"
 path = "../../core/lib"
 default-features = false
 

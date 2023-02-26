@@ -62,11 +62,9 @@ tokio-stream = { version = "0.1.6", features = ["signal", "time"] }
 state = "0.5.1"
 
 [dependencies.rocket_codegen]
-version = "0.5.0-rc.2"
 path = "../codegen"
 
 [dependencies.rocket_http]
-version = "0.5.0-rc.2"
 path = "../http"
 features = ["serde"]
 
